@@ -15,13 +15,30 @@ const Skill = () => {
           <img src='./images/icons/react-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           React JS
         </div>
-        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Node Js'>
+        {/* <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Node Js'>
           <img src='./images/icons/nodejs-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           Node JS
-        </div>
-        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='MongoDB'>
+        </div> */}
+        {/* <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='MongoDB'>
           <img src='./images/icons/mongodb-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           MongoDB
+        </div> */}
+        {/* cari icon for Flutter, AWS, GCP, Python, MySQL, C++ */}
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
+          <img src='./images/icons/flutter-app.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          Flutter
+        </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
+          <img src='./images/icons/mysql-icon.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          MySQL
+        </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
+          <img src='./images/icons/python-icon.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          Python
+        </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
+          <img src='./images/icons/cpp-logo.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          C++
         </div>
         <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
           <img src='./images/icons/html5-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
